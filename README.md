@@ -31,29 +31,50 @@ Obrigado por visitar meu perfil! 🙏
 # Olá! 👋
 
 ## Sobre mim 💻
-Sou estudante de Informática, iniciando no desenvolvimento de software e sistemas. Estou aprendendo as linguagens **Portugol**, **Python** e estudando **SQL** para manipulação de bancos de dados. Trabalho atualmente na área de HelpDesk, oferecendo suporte técnico.
+Sou estudante de Informática, começando na área de programação. Tenho estudado **Portugol**, **Python** e **SQL**. Também atuo como **HelpDesk**, dando suporte técnico e resolvendo problemas de tecnologia.
+
+---
 
 ## 🛠️ Skills Técnicas
 
-- 🟢 **Portugol** — lógica de programação, algoritmos básicos  
-- 🐍 **Python** — scripts, fundamentos da linguagem, automações simples  
-- 🗄️ **SQL** — consultas básicas, manipulação e organização de dados  
-- 🎧 **HelpDesk** — suporte técnico, atendimento ao usuário, resolução de chamados  
-- 💻 **Conceitos** — lógica de programação, algoritmos, bancos de dados relacionais  
+<div style="display: flex; align-items: center; gap: 16px; flex-wrap: wrap;">
+
+  <img src="https://img.icons8.com/color/48/000000/flow-chart.png" alt="Portugol" width="40"/>
+  <b>Portugol</b>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
+  <b>Python</b>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40"/>
+  <b>SQL</b>
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/headset.png" alt="HelpDesk" width="40"/>
+  <b>HelpDesk</b>
+</div>
+
+---
 
 ## 🎯 Objetivos
-- Melhorar minhas habilidades em programação e lógica  
-- Aprender a desenvolver projetos reais com Python e SQL  
-- Crescer na área de tecnologia, integrando conhecimento técnico e suporte  
 
-## 📚 Estudos atuais
-- Algoritmos e lógica com Portugol  
-- Sintaxe e automações em Python  
-- Consultas SQL básicas e manipulação de dados  
+- Aprimorar minhas habilidades em programação
+- Praticar lógica e resolução de problemas
+- Aprender a criar e gerenciar bancos de dados
+- Crescer profissionalmente na área de tecnologia
+
+---
+
+## 📚 O que estudo agora
+
+- Algoritmos e lógica em Portugol
+- Sintaxe e scripts simples em Python
+- Consultas básicas em SQL
+
+---
 
 ## 📫 Contato
-- Email: seuemail@exemplo.com  
-- LinkedIn: linkedin.com/in/seunome  
+
+- Email: seuemail@exemplo.com
+- LinkedIn: linkedin.com/in/seunome
 
 ---
 
