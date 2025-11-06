@@ -35,16 +35,12 @@ Sou estudante de Informática e estou começando no mundo da programação. Atua
 
 ## Minhas habilidades atuais 🚀
 - 🟢 **Portugol**  
-  ![Portugol Icon](https://img.icons8.com/color/24/000000/flow-chart.png)  
   Lógica de programação e algoritmos básicos  
 - 🐍 **Python**  
-  ![Python Icon](https://img.icons8.com/color/24/000000/python.png)  
   Primeiros passos e scripts simples  
 - 🗄️ **SQL**  
-  ![SQL Icon](https://img.icons8.com/color/24/000000/database.png)  
   Manipulação básica de dados  
 - 🎧 **HelpDesk**  
-  ![HelpDesk Icon](https://img.icons8.com/color/24/000000/headset.png)  
   Suporte técnico e atendimento ao usuário  
 
 ## Meus objetivos 🎯
