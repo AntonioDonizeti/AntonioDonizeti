@@ -28,17 +28,9 @@ Sou estudante de Informática e estou começando no mundo da programação. Atua
 Obrigado por visitar meu perfil! 🙏
 
 
-# Olá! 👋
-
-## Sobre mim 💻
-Sou estudante de Informática, começando na área de programação. Tenho estudado **Portugol**, **Python** e **SQL**. Também atuo como **HelpDesk**, dando suporte técnico e resolvendo problemas de tecnologia.
-
----
-
 ## 🛠️ Skills Técnicas
 
-<div style="display: flex; align-items: center; gap: 16px; flex-wrap: wrap;">
-
+<p align="left">
   <img src="https://img.icons8.com/color/48/000000/flow-chart.png" alt="Portugol" width="40"/>
   <b>Portugol</b>
   &nbsp;&nbsp;
@@ -50,26 +42,8 @@ Sou estudante de Informática, começando na área de programação. Tenho estud
   &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/headset.png" alt="HelpDesk" width="40"/>
   <b>HelpDesk</b>
-</div>
+</p>
 
----
-
-## 🎯 Objetivos
-
-- Aprimorar minhas habilidades em programação
-- Praticar lógica e resolução de problemas
-- Aprender a criar e gerenciar bancos de dados
-- Crescer profissionalmente na área de tecnologia
-
----
-
-## 📚 O que estudo agora
-
-- Algoritmos e lógica em Portugol
-- Sintaxe e scripts simples em Python
-- Consultas básicas em SQL
-
----
 
 ## 📫 Contato
 
