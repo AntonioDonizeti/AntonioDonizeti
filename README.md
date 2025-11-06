@@ -30,7 +30,6 @@ Sou estudante de Informática, começando minha jornada na área de tecnologia e
 - Consultas básicas e manipulação de dados em SQL
 
 ## 📫 Contato
-- Email: seuemail@exemplo.com
-- LinkedIn: linkedin.com/in/seunome
+- Email: donizeti.adgs1605@gmail.com
 
 Obrigado por visitar meu perfil!
