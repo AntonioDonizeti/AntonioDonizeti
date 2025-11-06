@@ -1,32 +1,9 @@
-# Olá! 👋
+# 👋 Olá, seja bem-vindo(a) ao meu perfil!
 
-## Sobre mim 💻
-Sou estudante de Informática e estou começando no mundo da programação. Atualmente, estou aprendendo **Portugol**, **Python** e **SQL**. Além disso, trabalho como **HelpDesk**, ajudando a resolver problemas técnicos e oferecendo suporte aos usuários.
-
-## Minhas habilidades atuais 🚀
-- 🐍 **Python:** primeiros passos e scripts simples  
-- 📜 **Portugol:** lógica de programação e algoritmos básicos  
-- 🗃️ **SQL:** manipulação básica de dados  
-- 🎧 **HelpDesk:** suporte técnico e atendimento ao usuário  
-
-## Meus objetivos 🎯
-- Aprimorar minhas habilidades em programação  
-- Desenvolver lógica e resolução de problemas  
-- Aprender a criar e gerenciar bancos de dados  
-- Evoluir profissionalmente na área de TI e suporte técnico  
-
-## O que estou estudando agora 📚
-- Algoritmos e lógica
-- Sintaxe e automações básicas em Python  
-- Consultas e manipulação de dados em SQL  
-
-## Contato ✉️
-- Email: donizeti.adgs1605@gmail.com
+## Sobre mim
+Sou estudante de Informática, começando minha jornada na área de tecnologia e programação. Tenho focado meu aprendizado nas linguagens **Portugol**, **Python** e os conceitos de **SQL** para bancos de dados. Atualmente, também atuo como **HelpDesk**, ajudando pessoas a resolver problemas técnicos no dia a dia.
 
 ---
-
-Obrigado por visitar meu perfil! 🙏
-
 
 ## 🛠️ Skills Técnicas
 
@@ -44,6 +21,24 @@ Obrigado por visitar meu perfil! 🙏
   <b>HelpDesk</b>
 </p>
 
+---
+
+## 🎯 Objetivos
+
+- Aprimorar minhas habilidades em programação e lógica
+- Praticar resolução de problemas com código
+- Aprender a estruturar e gerenciar bancos de dados relacionais
+- Evoluir profissionalmente na área de tecnologia e suporte
+
+---
+
+## 📚 O que estou estudando agora
+
+- Algoritmos, lógica e estrutura de dados em Portugol
+- Sintaxe e scripts simples em Python
+- Consultas básicas e manipulação de dados em SQL
+
+---
 
 ## 📫 Contato
 
@@ -52,4 +47,4 @@ Obrigado por visitar meu perfil! 🙏
 
 ---
 
-Obrigado por visitar meu perfil! 🙏
+🙏 Obrigado por visitar meu perfil!
