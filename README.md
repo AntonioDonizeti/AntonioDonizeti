@@ -14,7 +14,7 @@ Sou estudante de Informática, começando minha jornada na área de tecnologia e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40"/>
   <b>SQL</b>
   &nbsp;&nbsp;
-  <img src="image.jpg" alt="Power BI" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40"/>
   <b>Power BI</b>
   &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/headset.png" alt="HelpDesk" width="40"/>
